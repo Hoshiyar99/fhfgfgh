@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My Personal Portfolio</title>
-  
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+      <p class="Summary">
+            I am a dedicated student currently pursuing a degree in <strong>Computer Science</strong>.
+            I have a strong interest in front-end development and user interface design.
+            I enjoy solving complex 
+            problems and continuously learning new technologies in the web ecosystem. 
+            .I am also passionate about artificial intelligence and 
+            machine learning.
